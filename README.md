@@ -1,0 +1,1 @@
+# test-go-config-plugin
